@@ -502,7 +502,7 @@
   background-color: #8c3785; }
 
 .slider.slider-success.noUi-target {
-  background-color: rgba(24, 206, 15, 0.3); }
+  background-color: rgb(140, 55, 133); }
 
 .slider.slider-success .noUi-handle {
   background-color: #8c3785; }
@@ -1960,8 +1960,8 @@ textarea.form-control {
   color: #fff; }
 
 .checkbox-success input[type="checkbox"]:checked + label::before {
-  background-color: #5cb85c;
-  border-color: #5cb85c; }
+  background-color: #8c3785;
+  border-color: #8c3785; }
 
 .checkbox-success input[type="checkbox"]:checked + label::after {
   color: #fff; }
@@ -2038,7 +2038,7 @@ textarea.form-control {
   .progress-container.progress-neutral .progress-badge {
     color: #FFFFFF; }
   .progress-container.progress-primary .progress {
-    background: rgba(55, 140, 63, 0.4); }
+    background: rgb(140, 55, 133); }
   .progress-container.progress-primary .progress-bar {
     background: #8c3785; }
   .progress-container.progress-primary .progress-value,
